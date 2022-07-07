@@ -1,1 +1,2 @@
-it is a a.txt file se
+it is a a.txt file sde
+insert into command line 
